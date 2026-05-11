@@ -165,23 +165,13 @@ pip install mootdx akshare requests pandas
 
 ## Support
 
-如果这个工具帮到了你的投研工作流，欢迎请作者喝杯咖啡：
-
 <p align="center">
   <img src="./assets/wechat-sponsor.jpg" width="240" alt="微信赞赏码">
 </p>
 <p align="center">
-  <a href="https://ifdian.net/a/simonlin">爱发电（周期赞助）</a> ·
+  <a href="https://ifdian.net/a/simonlin">爱发电</a> ·
   <a href="https://buymeacoffee.com/simonlin1212">Buy Me a Coffee</a>
 </p>
-
-### Sponsors
-
-感谢以下朋友的支持（按时间倒序）：
-
-| 日期 | 昵称 | 渠道 |
-|------|------|------|
-| — | *虚位以待* | — |
 
 > 想要什么数据端点？欢迎开 [Issue](https://github.com/simonlin1212/a-stock-data/issues) 提需求，赞助者的 Issue 优先处理。
 
